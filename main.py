@@ -17,7 +17,7 @@ window_height = 500
 # Creating game window
 
 window = pygame.display.set_mode((window_width, window_height))
-pygame.display.set_caption("Pong Game")
+pygame.display.set_caption("Ping Pong Game")
 
 # Creating Game Objects
 
